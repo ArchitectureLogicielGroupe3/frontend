@@ -27,3 +27,12 @@
     font-size: 1em;
     color: #555;
 }
+
+.card {
+    /* Your existing card styles */
+    /* Make sure to define styles for the deselected state as well */
+}
+
+.selected {
+    border: 2px solid blue; /* Add your selected card styles */
+}
